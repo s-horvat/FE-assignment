@@ -7,3 +7,5 @@ HTML
 CSS( [Tailwind](https://tailwindcss.com/docs/installation))
 
 Vanilla JS
+
+Live Site https://fe-zadatak.netlify.app/
